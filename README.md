@@ -1,4 +1,4 @@
-# Práctica 1: Despliegue con Streamlit 🚀
+# Práctica 1 Uc3m: Despliegue con Streamlit 🚀
 
 Este repositorio contiene la simulación de la puesta en producción de un modelo predictivo para la Suscripción de Producto Bancario.
 
