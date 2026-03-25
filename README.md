@@ -2,6 +2,14 @@
 
 Este repositorio contiene la simulación de la puesta en producción de un modelo predictivo para la Suscripción de Producto Bancario.
 
+<br>
+
+<div align="center">
+  <img src="captura.png" alt="Interfaz de la aplicación en Streamlit" width="700"/>
+</div>
+
+<br>
+
 ## 📂 Archivos Principales
 - **[`entrenamiento_modelo.ipynb`](https://github.com/emiliomartin84-uc3m/Streamlit-scikit-learn-example/blob/main/entrenamiento_modelo.ipynb)**: Notebook de Jupyter donde se crea, entrena y se exporta el *Pipeline* completo de Scikit-Learn.
 - **[`modelo_produccion.joblib`](https://github.com/emiliomartin84-uc3m/Streamlit-scikit-learn-example/blob/main/modelo_produccion.joblib)**: El modelo final exportado y listo para ser consumido.
